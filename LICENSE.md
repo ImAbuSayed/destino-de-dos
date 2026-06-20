@@ -1,6 +1,6 @@
 # License
 
-**Destino de dos**
+**Destino de dos, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

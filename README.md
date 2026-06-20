@@ -1,4 +1,4 @@
-# Destino de dos
+# Destino de dos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Destino de dos |
+| **Title** | Destino de dos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/destino-de-dos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Destino de dos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-dos/) |
+| **Get License** | [Official Music Licensing for Destino de dos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/destino-de-dos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche está pidiendo que te acerques más
+> I feel the tension en el aire cuando tú te vas
+> Un juego peligroso, pero quiero ver qué das
+> Your body language me fascina, let's just make it last
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5ae6a9c3972f27f52bee4b9b9d4a470e0c554dcb3c66b528353d1116fea3e9bd` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
